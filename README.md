@@ -1,7 +1,5 @@
 <img src="http://onemoreapp.ru/atext/atext.png" width="600px"></img>
 
- 
-
 Awesome TextField is a nice and simple library for iOS and Mac OSX. It's highly customizable and easy-to-use tool. Works perfectly for any registration or login forms in your app. 
 
 ![icon](http://onemoreapp.ru/atext/afield.gif)
@@ -18,7 +16,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "AwesomeTextField"
 ```
-
 
 ##Usage
 <em></em>
